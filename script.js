@@ -40,3 +40,5 @@ function scrollab() {
     window.scrollTo(0,3400);
     behavior: 'smooth';
   }
+
+  
